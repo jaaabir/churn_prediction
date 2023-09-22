@@ -1,15 +1,15 @@
 # CHURN PREDICTION
 
 ### USAGE (local)
-```python -m venv venv```
+> ```python -m venv venv```
 
-```pip install -r requirements.txt```
+> ```pip install -r requirements.txt```
 
-```activate -> venv```
+> ```activate -> venv```
 
-```python prediction.py```
+> ```python prediction.py```
 
 ### USAGE (docker)
-```docker pull jaaabir/churn_prediction:latest```
+> ```docker pull jaaabir/churn_prediction:latest```
 
-```docker run -ti jaaabir/churn_prediction```
+> ```docker run -ti jaaabir/churn_prediction```
